@@ -7,7 +7,7 @@ public class Vowel {
         String alpha=Sc.nextLine();
         if(alpha=="a")
         {
-            System.out.println("vowel");
+            System.out.println("Vowel");
         }
         else if(alpha=="y")
         {
